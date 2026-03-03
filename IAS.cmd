@@ -8,9 +8,9 @@
 ::
 ::   IDM Activation Script (IAS)
 ::
-::   Homepages: https://github.com/hanmaoye/IDM-Activation-Script
+::   Homepages: https://github.com/hxz303/IDM-Activation-Script/tree/main
 ::
-::       Email: hanmaoye@qq.com
+::       Email: 158575876@qq.com
 ::
 ::============================================================================
 
@@ -403,14 +403,14 @@ echo:
 echo:               Github: https://github.com/hanmaoye
 echo:            ___________________________________________________ 
 echo:                                                               
-echo:               [1] Activate
-echo:               [2] Freeze Trial
-echo:               [3] Reset Activation / Trial
+echo:               [1] Activate 激活
+echo:               [2] Freeze Trial 冻结实验
+echo:               [3] Reset Activation / Trial  重置激活/试用
 echo:               _____________________________________________   
 echo:                                                               
-echo:               [4] Download IDM
-echo:               [5] Help
-echo:               [0] Exit
+echo:               [4] Download IDM 下载IDM
+echo:               [5] Help 帮助
+echo:               [0] Exit 退出
 echo:            ___________________________________________________
 echo:         
 call :_color2 %_White% "             " %_Green% "Enter a menu option in the Keyboard [1,2,3,4,5,0]"
